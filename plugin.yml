@@ -1,0 +1,22 @@
+name: RPG
+author: zManuu
+version: 1.0
+api-version: 1.13
+main: de.zmanuu.dev.main.RPGSystem
+depend: [ MMOCore, LuckPerms ]
+commands:
+  gm:
+  weather:
+  dunkey:
+  skull:
+  kill:
+  horse:
+  clearitems:
+  region:
+  lebenspunkte:
+  test:
+  god:
+  lockitem:
+  help:
+  helpchat:
+  msg:

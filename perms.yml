@@ -1,0 +1,12 @@
+rpg.build
+rpg.commands.admin.gm
+rpg.commands.admin.saveinv
+rpg.commands.admin.skull
+rpg.commands.admin.weather
+rpg.commands.admin.time
+rpg.commands.admin.clearitems
+rpg.commands.admin.god
+rpg.commands.admin.warp
+rpg.commands.admin.warp.set
+rpg.commands.admin.kill
+rpg.team.helpchat

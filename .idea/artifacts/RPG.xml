@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RPG">
+    <output-path>$USER_HOME$/Documents/LocalBungee/RPG/plugins</output-path>
+    <root id="archive" name="RPG.jar">
+      <element id="module-output" name="RPG" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+    </root>
+  </artifact>
+</component>
